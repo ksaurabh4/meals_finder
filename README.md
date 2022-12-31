@@ -3,7 +3,7 @@
 Mobile App made with  flutter to checks different types of meals, its ingredients, cooking steps and much more.
 
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started this Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
